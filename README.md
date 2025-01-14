@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- I'm a frontend developer, content creator, and undergrad student . I'm interested in development, softwareing. I'll be fast for satisfy my desire to know everything that makes me a software engineer skillful !</p>
+<p align="left">- I'm a front-end developer, content creator.</p>
 
 ###
 

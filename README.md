@@ -35,7 +35,7 @@
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=html,css,,js,typescript,,react,next,,tailwind,bootstrap,sass" />
+    <img src="https://skillicons.dev/icons?i=html,css,,js,typescript,,react,next,,tailwind,bootstrap,,figma" />
   </a>
 </p>
 

@@ -15,7 +15,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="97" height="45" alt="linkedin logo"  />
   </a>
   <a href="https://marwanh.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/website/default.svg" width="97" height="45" alt="Website  logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="97" height="45" alt="Website  logo"  />
   </a>
 </div>
 
